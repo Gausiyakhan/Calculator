@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Lato:wght@300&family=Tilt+Warp&display=swap");
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Inter", sans-serif;
+}
+.container {
+}
+.button {
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+.row {
+  margin: 8px 0;
+}
+.row input {
+  width: 290px;
+  font-size: 19px;
+  margin: 0;
+  padding: 10px 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+}
